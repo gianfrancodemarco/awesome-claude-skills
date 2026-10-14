@@ -142,6 +142,7 @@
 - [llm-wiki](https://github.com/praneybehl/llm-wiki-plugin) - Build and maintain an LLM-curated personal knowledge base with sharded indexes and search.
 - [swarmvault](https://github.com/swarmclawai/swarmvault) - Compile docs, research, and code into a local markdown wiki, knowledge graph, and hybrid search index.
 - [wiki](https://github.com/plasma-ai/wiki/tree/main/wiki/skills/wiki) - Manage indexed Markdown knowledge bases for agents with scoped retrieval and deterministic indexes.
+- [pairing-gears](https://github.com/gianfrancodemarco/pairing-gears) - Guides you through coding tasks step by step instead of coding for you, with assistance levels 1-5. For learning unfamiliar codebases and keeping skills sharp on no-AI days.
 
 
 ## 🎬 Media & Content
